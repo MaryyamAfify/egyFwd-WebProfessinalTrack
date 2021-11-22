@@ -17,7 +17,7 @@ This is the first assigment to deliver to the Udacity Front End Web Development 
 
 ## Author
 
-Seif Ahmad Lotfy.
+Mariam Afify.
 
 ## Technologies Used
 
